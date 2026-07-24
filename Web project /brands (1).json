@@ -1,0 +1,33 @@
+[
+    {
+        "id":1,
+        "name":"Hikvision",
+        "logo":"images/brands/hikvision.png"
+    },
+    {
+        "id":2,
+        "name":"HiLook",
+        "logo":"images/brands/hilook.png"
+    },
+    {
+        "id":3,
+        "name":"Dahua",
+        "logo":"images/brands/dahua.png"
+    },
+    {
+        "id":4,
+        "name":"CP Plus",
+        "logo":"images/brands/cpplus.png"
+    },
+    {
+        "id":5,
+        "name":"TP-Link",
+        "logo":"images/brands/tplink.png"
+    },
+    {
+        "id":6,
+        "name":"D-Link",
+        "logo":"images/brands/dlink.png"
+    }
+]
+

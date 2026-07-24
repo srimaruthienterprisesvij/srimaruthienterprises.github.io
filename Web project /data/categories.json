@@ -1,0 +1,53 @@
+[
+  {
+    "id": 1,
+    "name": "Network Cameras",
+    "icon": "fa-video"
+  },
+  {
+    "id": 2,
+    "name": "Turbo HD Cameras",
+    "icon": "fa-camera"
+  },
+  {
+    "id": 3,
+    "name": "PTZ Cameras",
+    "icon": "fa-arrows-rotate"
+  },
+  {
+    "id": 4,
+    "name": "NVR",
+    "icon": "fa-hard-drive"
+  },
+  {
+    "id": 5,
+    "name": "DVR",
+    "icon": "fa-database"
+  },
+  {
+    "id": 6,
+    "name": "Video Door Phone",
+    "icon": "fa-door-open"
+  },
+  {
+    "id": 7,
+    "name": "Access Control",
+    "icon": "fa-id-card"
+  },
+  {
+    "id": 8,
+    "name": "Time Attendance",
+    "icon": "fa-clock"
+  },
+  {
+    "id": 9,
+    "name": "Alarm Systems",
+    "icon": "fa-bell"
+  },
+  {
+    "id": 10,
+    "name": "Networking",
+    "icon": "fa-network-wired"
+  }
+]
+

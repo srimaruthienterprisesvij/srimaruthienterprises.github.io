@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Hikvision",
+    "logo": "images/brands/hikvision.png"
+  },
+  {
+    "id": 2,
+    "name": "HiLook",
+    "logo": "images/brands/hilook.png"
+  },
+  {
+    "id": 3,
+    "name": "Ezviz",
+    "logo": "images/brands/ezviz.png"
+  },
+  {
+    "id": 4,
+    "name": "Hiksemi",
+    "logo": "images/brands/hiksemi.png"
+  }
+]
+

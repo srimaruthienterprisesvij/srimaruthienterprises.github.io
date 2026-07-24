@@ -1,0 +1,164 @@
+/* ==========================================
+   Responsive Design
+========================================== */
+
+/* Large Tablets */
+@media (max-width:1200px){
+
+.container{
+width:95%;
+}
+
+.hero h1{
+font-size:45px;
+}
+
+}
+
+/* Tablets */
+
+@media (max-width:992px){
+
+header .container{
+flex-wrap:wrap;
+justify-content:center;
+}
+
+nav ul{
+flex-wrap:wrap;
+justify-content:center;
+gap:15px;
+}
+
+.search-box{
+width:100%;
+max-width:100%;
+margin-top:15px;
+}
+
+.hero{
+height:500px;
+}
+
+.hero h1{
+font-size:38px;
+}
+
+.hero p{
+font-size:18px;
+}
+
+.product-wrapper{
+grid-template-columns:1fr;
+}
+
+.contact-grid{
+grid-template-columns:1fr;
+text-align:center;
+}
+
+.footer-grid{
+grid-template-columns:repeat(2,1fr);
+}
+
+}
+
+/* Mobile */
+
+@media (max-width:768px){
+
+.hero{
+height:420px;
+}
+
+.hero h1{
+font-size:30px;
+}
+
+.hero p{
+font-size:16px;
+}
+
+.hero-buttons{
+flex-direction:column;
+align-items:center;
+}
+
+.section-title h2{
+font-size:28px;
+}
+
+.category-grid,
+.product-grid,
+.why-grid,
+.brand-grid,
+.gallery-grid{
+
+grid-template-columns:1fr;
+
+}
+
+.footer-grid{
+grid-template-columns:1fr;
+text-align:center;
+}
+
+.logo img{
+height:55px;
+}
+
+.quote-btn,
+.btn-primary,
+.btn-secondary{
+width:100%;
+text-align:center;
+}
+
+.filter-buttons{
+justify-content:center;
+}
+
+}
+
+/* Small Mobile */
+
+@media (max-width:480px){
+
+body{
+font-size:14px;
+}
+
+.hero h1{
+font-size:24px;
+}
+
+.hero p{
+font-size:15px;
+}
+
+.search-box input{
+font-size:14px;
+padding:10px;
+}
+
+.search-box button{
+width:50px;
+}
+
+.whatsapp-float{
+width:55px;
+height:55px;
+font-size:26px;
+}
+
+#topBtn{
+width:45px;
+height:45px;
+}
+
+.product-card img{
+height:200px;
+}
+
+}
+

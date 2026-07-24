@@ -1,0 +1,45 @@
+[
+    {
+        "id":1,
+        "name":"CCTV Cameras",
+        "icon":"fa-camera",
+        "slug":"camera"
+    },
+    {
+        "id":2,
+        "name":"IP Cameras",
+        "icon":"fa-video",
+        "slug":"ip-camera"
+    },
+    {
+        "id":3,
+        "name":"NVR",
+        "icon":"fa-server",
+        "slug":"nvr"
+    },
+    {
+        "id":4,
+        "name":"DVR",
+        "icon":"fa-hard-drive",
+        "slug":"dvr"
+    },
+    {
+        "id":5,
+        "name":"Networking",
+        "icon":"fa-network-wired",
+        "slug":"network"
+    },
+    {
+        "id":6,
+        "name":"Access Control",
+        "icon":"fa-fingerprint",
+        "slug":"access-control"
+    },
+    {
+        "id":7,
+        "name":"Video Intercom",
+        "icon":"fa-door-open",
+        "slug":"intercom"
+    }
+]
+

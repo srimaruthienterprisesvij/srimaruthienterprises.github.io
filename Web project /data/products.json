@@ -1,0 +1,777 @@
+[
+  {
+    "id": 9,
+    "name": "ColorVu 3.0 Fixed Dome Camera",
+    "brand": "Hikvision",
+    "category": "Network Camera",
+    "model": "DS-2CD2347G3-LI2UY",
+    "image": "images/products/DS-2CD2347G3-LI2UY.jpg",
+    "description": "4 MP ColorVu 3.0 fixed dome network camera with Smart Hybrid Light.",
+    "features": [
+      "ColorVu 3.0",
+      "Smart Hybrid Light",
+      "AcuSense",
+      "H.265+",
+      "IP67"
+    ],
+    "specifications": {
+      "Resolution": "4 MP",
+      "Lens": "2.8mm/4mm",
+      "IR Distance": "30m",
+      "Protection": "IP67"
+    },
+    "brochure": "pdf/Product-Catalogue.pdf"
+  },
+  {
+    "id": 10,
+    "name": "ColorVu 3.0 Fixed Bullet Camera",
+    "brand": "Hikvision",
+    "category": "Network Camera",
+    "model": "DS-2CD2047G3-LI2UY",
+    "image": "images/products/DS-2CD2047G3-LI2UY.jpg",
+    "description": "4 MP ColorVu 3.0 fixed bullet camera with Smart Hybrid Light.",
+    "features": [
+      "ColorVu 3.0",
+      "AcuSense",
+      "Smart Hybrid Light",
+      "IP67",
+      "H.265+"
+    ],
+    "specifications": {
+      "Resolution": "4 MP",
+      "Lens": "2.8mm/4mm",
+      "IR Distance": "40m",
+      "Protection": "IP67"
+    },
+    "brochure": "pdf/Product-Catalogue.pdf"
+  },
+  {
+    "id": 11,
+    "name": "Ultra HD Network Camera",
+    "brand": "Hikvision",
+    "category": "Network Camera",
+    "model": "DS-2CD2086G2-IU",
+    "image": "images/products/DS-2CD2086G2-IU.jpg",
+    "description": "8 MP Ultra HD fixed bullet network camera.",
+    "features": [
+      "8 MP",
+      "DarkFighter",
+      "H.265+",
+      "Built-in Microphone",
+      "IP67"
+    ],
+    "specifications": {
+      "Resolution": "8 MP",
+      "Lens": "2.8mm/4mm",
+      "IR Distance": "40m",
+      "Protection": "IP67"
+    },
+    "brochure": "pdf/Product-Catalogue.pdf"
+  },
+  {
+    "id": 12,
+    "name": "Ultra HD Dome Camera",
+    "brand": "Hikvision",
+    "category": "Network Camera",
+    "model": "DS-2CD2186G2-ISU",
+    "image": "images/products/DS-2CD2186G2-ISU.jpg",
+    "description": "8 MP Ultra HD vandal-resistant dome camera.",
+    "features": [
+      "8 MP",
+      "DarkFighter",
+      "Built-in Mic",
+      "IK10",
+      "IP67"
+    ],
+    "specifications": {
+      "Resolution": "8 MP",
+      "Lens": "2.8mm",
+      "Protection": "IP67/IK10"
+    },
+    "brochure": "pdf/Product-Catalogue.pdf"
+  },
+  {
+    "id": 13,
+    "name": "Smart Hybrid Light Dome Camera",
+    "brand": "Hikvision",
+    "category": "Network Camera",
+    "model": "DS-2CD2143G2-LIS2U",
+    "image": "images/products/DS-2CD2143G2-LIS2U.jpg",
+    "description": "4 MP Smart Hybrid Light dome camera with AcuSense.",
+    "features": [
+      "4 MP",
+      "Smart Hybrid Light",
+      "AcuSense",
+      "Built-in Microphone",
+      "IP67"
+    ],
+    "specifications": {
+      "Resolution": "4 MP",
+      "Lens": "2.8mm/4mm",
+      "Protection": "IP67"
+    },
+    "brochure": "pdf/Product-Catalogue.pdf"
+  },
+  {
+    "id": 14,
+    "name": "Mini PT Camera",
+    "brand": "Hikvision",
+    "category": "PT Camera",
+    "model": "DS-2DE2C200MWG-E",
+    "image": "images/products/DS-2DE2C200MWG-E.jpg",
+    "description": "Mini PT camera with intelligent tracking.",
+    "features": [
+      "Pan/Tilt",
+      "Auto Tracking",
+      "ColorVu",
+      "Human Detection",
+      "IP66"
+    ],
+    "specifications": {
+      "Protection": "IP66",
+      "Tracking": "AI Auto Tracking"
+    },
+    "brochure": "pdf/Product-Catalogue.pdf"
+  },
+  {
+    "id": 15,
+    "name": "Mini PTZ Camera",
+    "brand": "Hikvision",
+    "category": "PTZ Camera",
+    "model": "DS-2DE3A404IW-DE",
+    "image": "images/products/DS-2DE3A404IW-DE.jpg",
+    "description": "4 MP mini PTZ network camera with 4\u00d7 optical zoom.",
+    "features": [
+      "4\u00d7 Optical Zoom",
+      "Smart Tracking",
+      "H.265+",
+      "IR 50m"
+    ],
+    "specifications": {
+      "Resolution": "4 MP",
+      "Zoom": "4x Optical",
+      "IR": "50m"
+    },
+    "brochure": "pdf/Product-Catalogue.pdf"
+  },
+  {
+    "id": 16,
+    "name": "Mini PTZ Network Camera",
+    "brand": "Hikvision",
+    "category": "PTZ Camera",
+    "model": "DS-2DE2A404IW-DE3",
+    "image": "images/products/DS-2DE2A404IW-DE3.jpg",
+    "description": "4 MP Mini PTZ camera with intelligent auto tracking.",
+    "features": [
+      "4 MP",
+      "4\u00d7 Optical Zoom",
+      "Auto Tracking",
+      "H.265+",
+      "IR 50m"
+    ],
+    "specifications": {
+      "Resolution": "4 MP",
+      "Zoom": "4\u00d7 Optical",
+      "IR Distance": "50m",
+      "Protection": "IP66"
+    },
+    "brochure": "pdf/Product-Catalogue.pdf"
+  },
+  {
+    "id": 17,
+    "name": "4 MP Fixed Dome Camera",
+    "brand": "Hikvision",
+    "category": "Network Camera",
+    "model": "DS-2CD2143G2-IU",
+    "image": "images/products/DS-2CD2143G2-IU.jpg",
+    "description": "4 MP AcuSense fixed dome network camera.",
+    "features": [
+      "AcuSense",
+      "Built-in Mic",
+      "H.265+",
+      "IP67",
+      "IK10"
+    ],
+    "specifications": {
+      "Resolution": "4 MP",
+      "Lens": "2.8mm/4mm",
+      "Protection": "IP67/IK10"
+    },
+    "brochure": "pdf/Product-Catalogue.pdf"
+  },
+  {
+    "id": 18,
+    "name": "4 MP Fixed Bullet Camera",
+    "brand": "Hikvision",
+    "category": "Network Camera",
+    "model": "DS-2CD2043G2-IU",
+    "image": "images/products/DS-2CD2043G2-IU.jpg",
+    "description": "4 MP AcuSense bullet network camera.",
+    "features": [
+      "AcuSense",
+      "H.265+",
+      "IP67",
+      "Built-in Mic"
+    ],
+    "specifications": {
+      "Resolution": "4 MP",
+      "Lens": "2.8mm/4mm",
+      "IR Distance": "40m"
+    },
+    "brochure": "pdf/Product-Catalogue.pdf"
+  },
+  {
+    "id": 19,
+    "name": "6 MP Fixed Dome Camera",
+    "brand": "Hikvision",
+    "category": "Network Camera",
+    "model": "DS-2CD2163G2-IU",
+    "image": "images/products/DS-2CD2163G2-IU.jpg",
+    "description": "6 MP professional dome network camera.",
+    "features": [
+      "6 MP",
+      "DarkFighter",
+      "Built-in Mic",
+      "IP67",
+      "IK10"
+    ],
+    "specifications": {
+      "Resolution": "6 MP",
+      "Protection": "IP67/IK10"
+    },
+    "brochure": "pdf/Product-Catalogue.pdf"
+  },
+  {
+    "id": 20,
+    "name": "6 MP Fixed Bullet Camera",
+    "brand": "Hikvision",
+    "category": "Network Camera",
+    "model": "DS-2CD2063G2-IU",
+    "image": "images/products/DS-2CD2063G2-IU.jpg",
+    "description": "6 MP professional bullet network camera.",
+    "features": [
+      "6 MP",
+      "DarkFighter",
+      "AcuSense",
+      "IP67"
+    ],
+    "specifications": {
+      "Resolution": "6 MP",
+      "Lens": "2.8mm/4mm",
+      "IR Distance": "40m"
+    },
+    "brochure": "pdf/Product-Catalogue.pdf"
+  },
+  {
+    "id": 21,
+    "name": "8 MP Fixed Bullet Camera",
+    "brand": "Hikvision",
+    "category": "Network Camera",
+    "model": "DS-2CD2083G2-IU",
+    "image": "images/products/DS-2CD2083G2-IU.jpg",
+    "description": "8 MP fixed bullet network camera with AI detection.",
+    "features": [
+      "8 MP",
+      "AcuSense",
+      "Built-in Mic",
+      "IP67"
+    ],
+    "specifications": {
+      "Resolution": "8 MP",
+      "IR Distance": "40m"
+    },
+    "brochure": "pdf/Product-Catalogue.pdf"
+  },
+  {
+    "id": 22,
+    "name": "ColorVu Bullet Camera",
+    "brand": "Hikvision",
+    "category": "Network Camera",
+    "model": "DS-2CD2047G2-LU",
+    "image": "images/products/DS-2CD2047G2-LU.jpg",
+    "description": "ColorVu bullet camera for full-colour surveillance.",
+    "features": [
+      "24\u00d77 Colour",
+      "Built-in Mic",
+      "White Light",
+      "IP67"
+    ],
+    "specifications": {
+      "Resolution": "4 MP",
+      "Lens": "2.8mm/4mm"
+    },
+    "brochure": "pdf/Product-Catalogue.pdf"
+  },
+  {
+    "id": 23,
+    "name": "ColorVu Dome Camera",
+    "brand": "Hikvision",
+    "category": "Network Camera",
+    "model": "DS-2CD2347G2-LU",
+    "image": "images/products/DS-2CD2347G2-LU.jpg",
+    "description": "ColorVu fixed dome network camera.",
+    "features": [
+      "24\u00d77 Colour",
+      "Built-in Mic",
+      "White Light",
+      "IP67",
+      "IK10"
+    ],
+    "specifications": {
+      "Resolution": "4 MP",
+      "Protection": "IP67/IK10"
+    },
+    "brochure": "pdf/Product-Catalogue.pdf"
+  },
+  {
+    "id": 24,
+    "name": "Smart Hybrid Light Bullet Camera",
+    "brand": "Hikvision",
+    "category": "Network Camera",
+    "model": "DS-2CD2043G2-LI2U",
+    "image": "images/products/DS-2CD2043G2-LI2U.jpg",
+    "description": "Smart Hybrid Light bullet camera with intelligent lighting.",
+    "features": [
+      "Smart Hybrid Light",
+      "AcuSense",
+      "IP67",
+      "Built-in Mic"
+    ],
+    "specifications": {
+      "Resolution": "4 MP",
+      "Protection": "IP67"
+    },
+    "brochure": "pdf/Product-Catalogue.pdf"
+  },
+  {
+    "id": 25,
+    "name": "Smart Hybrid Light Dome Camera",
+    "brand": "Hikvision",
+    "category": "Network Camera",
+    "model": "DS-2CD2143G2-LI2U",
+    "image": "images/products/DS-2CD2143G2-LI2U.jpg",
+    "description": "Smart Hybrid Light dome camera with AI detection.",
+    "features": [
+      "Smart Hybrid Light",
+      "AcuSense",
+      "Built-in Mic",
+      "IP67",
+      "IK10"
+    ],
+    "specifications": {
+      "Resolution": "4 MP",
+      "Protection": "IP67/IK10"
+    },
+    "brochure": "pdf/Product-Catalogue.pdf"
+  },
+  {
+    "id": 26,
+    "name": "4 MP AcuSense Fixed Bullet Camera",
+    "brand": "Hikvision",
+    "category": "Network Camera",
+    "model": "DS-2CD2T43G2-4I",
+    "image": "images/products/DS-2CD2T43G2-4I.jpg",
+    "description": "4 MP outdoor bullet network camera with AcuSense technology.",
+    "features": [
+      "4 MP",
+      "AcuSense",
+      "H.265+",
+      "80m IR",
+      "IP67"
+    ],
+    "specifications": {
+      "Resolution": "4 MP",
+      "Lens": "2.8mm/4mm/6mm",
+      "IR Distance": "80m",
+      "Protection": "IP67"
+    },
+    "brochure": "pdf/Product-Catalogue.pdf"
+  },
+  {
+    "id": 27,
+    "name": "4 MP AcuSense Fixed Dome Camera",
+    "brand": "Hikvision",
+    "category": "Network Camera",
+    "model": "DS-2CD2H43G2-IZS",
+    "image": "images/products/DS-2CD2H43G2-IZS.jpg",
+    "description": "4 MP motorized varifocal dome camera.",
+    "features": [
+      "Motorized Varifocal",
+      "AcuSense",
+      "H.265+",
+      "IP67",
+      "IK10"
+    ],
+    "specifications": {
+      "Resolution": "4 MP",
+      "Lens": "2.8\u201312mm",
+      "Protection": "IP67/IK10"
+    },
+    "brochure": "pdf/Product-Catalogue.pdf"
+  },
+  {
+    "id": 28,
+    "name": "8 MP AcuSense Bullet Camera",
+    "brand": "Hikvision",
+    "category": "Network Camera",
+    "model": "DS-2CD2T86G2-4I",
+    "image": "images/products/DS-2CD2T86G2-4I.jpg",
+    "description": "8 MP Ultra HD outdoor bullet camera.",
+    "features": [
+      "8 MP",
+      "AcuSense",
+      "DarkFighter",
+      "80m IR",
+      "IP67"
+    ],
+    "specifications": {
+      "Resolution": "8 MP",
+      "IR Distance": "80m",
+      "Protection": "IP67"
+    },
+    "brochure": "pdf/Product-Catalogue.pdf"
+  },
+  {
+    "id": 29,
+    "name": "ColorVu Fixed Bullet Camera",
+    "brand": "Hikvision",
+    "category": "Network Camera",
+    "model": "DS-2CD2T47G2-L",
+    "image": "images/products/DS-2CD2T47G2-L.jpg",
+    "description": "4 MP ColorVu outdoor bullet camera.",
+    "features": [
+      "ColorVu",
+      "White LED",
+      "24\u00d77 Colour",
+      "IP67"
+    ],
+    "specifications": {
+      "Resolution": "4 MP",
+      "Lens": "2.8mm/4mm",
+      "Protection": "IP67"
+    },
+    "brochure": "pdf/Product-Catalogue.pdf"
+  },
+  {
+    "id": 30,
+    "name": "ColorVu Fixed Dome Camera",
+    "brand": "Hikvision",
+    "category": "Network Camera",
+    "model": "DS-2CD2H47G2-L",
+    "image": "images/products/DS-2CD2H47G2-L.jpg",
+    "description": "4 MP ColorVu vandal-resistant dome camera.",
+    "features": [
+      "ColorVu",
+      "24\u00d77 Colour",
+      "White LED",
+      "IK10",
+      "IP67"
+    ],
+    "specifications": {
+      "Resolution": "4 MP",
+      "Protection": "IP67/IK10"
+    },
+    "brochure": "pdf/Product-Catalogue.pdf"
+  },
+  {
+    "id": 31,
+    "name": "16 Channel Network Video Recorder",
+    "brand": "Hikvision",
+    "category": "NVR",
+    "model": "DS-7616NXI-K2",
+    "image": "images/products/DS-7616NXI-K2.jpg",
+    "description": "16-channel AcuSense network video recorder.",
+    "features": [
+      "16 Channels",
+      "4K HDMI",
+      "H.265+",
+      "2 SATA"
+    ],
+    "specifications": {
+      "Channels": "16",
+      "Max Resolution": "12 MP",
+      "Storage": "2 SATA"
+    },
+    "brochure": "pdf/Product-Catalogue.pdf"
+  },
+  {
+    "id": 32,
+    "name": "32 Channel Network Video Recorder",
+    "brand": "Hikvision",
+    "category": "NVR",
+    "model": "DS-7632NXI-K2",
+    "image": "images/products/DS-7632NXI-K2.jpg",
+    "description": "32-channel professional NVR.",
+    "features": [
+      "32 Channels",
+      "4K Output",
+      "H.265+",
+      "2 SATA"
+    ],
+    "specifications": {
+      "Channels": "32",
+      "Storage": "2 SATA"
+    },
+    "brochure": "pdf/Product-Catalogue.pdf"
+  },
+  {
+    "id": 33,
+    "name": "8 Channel AcuSense DVR",
+    "brand": "Hikvision",
+    "category": "DVR",
+    "model": "iDS-7208HQHI-M1",
+    "image": "images/products/iDS-7208HQHI-M1.jpg",
+    "description": "8-channel Turbo HD DVR with AI functions.",
+    "features": [
+      "8 Channels",
+      "AcuSense",
+      "H.265 Pro+",
+      "Audio over Coax"
+    ],
+    "specifications": {
+      "Channels": "8",
+      "Compression": "H.265 Pro+"
+    },
+    "brochure": "pdf/Product-Catalogue.pdf"
+  },
+  {
+    "id": 34,
+    "name": "16 Channel AcuSense DVR",
+    "brand": "Hikvision",
+    "category": "DVR",
+    "model": "iDS-7216HQHI-M2",
+    "image": "images/products/iDS-7216HQHI-M2.jpg",
+    "description": "16-channel Turbo HD DVR with AI detection.",
+    "features": [
+      "16 Channels",
+      "AcuSense",
+      "H.265 Pro+",
+      "2 SATA"
+    ],
+    "specifications": {
+      "Channels": "16",
+      "Storage": "2 SATA"
+    },
+    "brochure": "pdf/Product-Catalogue.pdf"
+  },
+  {
+    "id": 35,
+    "name": "4 MP PTZ Camera",
+    "brand": "Hikvision",
+    "category": "PTZ Camera",
+    "model": "DS-2DE5425IW-AE",
+    "image": "images/products/DS-2DE5425IW-AE.jpg",
+    "description": "4 MP PTZ camera with 25\u00d7 optical zoom.",
+    "features": [
+      "25\u00d7 Optical Zoom",
+      "Smart Tracking",
+      "120m IR",
+      "IP66"
+    ],
+    "specifications": {
+      "Resolution": "4 MP",
+      "Zoom": "25\u00d7 Optical",
+      "IR Distance": "120m"
+    },
+    "brochure": "pdf/Product-Catalogue.pdf"
+  },
+  {
+    "id": 36,
+    "name": "2 MP PTZ Network Camera",
+    "brand": "Hikvision",
+    "category": "PTZ Camera",
+    "model": "DS-2DE4225IW-DE",
+    "image": "images/products/DS-2DE4225IW-DE.jpg",
+    "description": "2 MP PTZ camera with 25\u00d7 optical zoom.",
+    "features": [
+      "25\u00d7 Optical Zoom",
+      "120m IR",
+      "Smart Tracking",
+      "IP66"
+    ],
+    "specifications": {
+      "Resolution": "2 MP",
+      "Zoom": "25\u00d7",
+      "IR Distance": "120m"
+    },
+    "brochure": "pdf/Product-Catalogue.pdf"
+  },
+  {
+    "id": 37,
+    "name": "2 MP Speed Dome PTZ",
+    "brand": "Hikvision",
+    "category": "PTZ Camera",
+    "model": "DS-2DF8225IX-AEL",
+    "image": "images/products/DS-2DF8225IX-AEL.jpg",
+    "description": "Professional speed dome PTZ camera.",
+    "features": [
+      "25\u00d7 Optical Zoom",
+      "Auto Tracking",
+      "200m IR",
+      "IP67"
+    ],
+    "specifications": {
+      "Resolution": "2 MP",
+      "IR Distance": "200m"
+    },
+    "brochure": "pdf/Product-Catalogue.pdf"
+  },
+  {
+    "id": 38,
+    "name": "4 Channel AcuSense DVR",
+    "brand": "Hikvision",
+    "category": "DVR",
+    "model": "iDS-7204HQHI-M1",
+    "image": "images/products/iDS-7204HQHI-M1.jpg",
+    "description": "4-channel Turbo HD DVR.",
+    "features": [
+      "4 Channels",
+      "AcuSense",
+      "H.265 Pro+",
+      "Audio over Coax"
+    ],
+    "specifications": {
+      "Channels": "4",
+      "Compression": "H.265 Pro+"
+    },
+    "brochure": "pdf/Product-Catalogue.pdf"
+  },
+  {
+    "id": 39,
+    "name": "32 Channel AcuSense NVR",
+    "brand": "Hikvision",
+    "category": "NVR",
+    "model": "DS-7732NXI-I4",
+    "image": "images/products/DS-7732NXI-I4.jpg",
+    "description": "Enterprise network video recorder.",
+    "features": [
+      "32 Channels",
+      "4 SATA",
+      "4K HDMI",
+      "H.265+"
+    ],
+    "specifications": {
+      "Channels": "32",
+      "Storage": "4 SATA"
+    },
+    "brochure": "pdf/Product-Catalogue.pdf"
+  },
+  {
+    "id": 40,
+    "name": "64 Channel NVR",
+    "brand": "Hikvision",
+    "category": "NVR",
+    "model": "DS-9664NI-I8",
+    "image": "images/products/DS-9664NI-I8.jpg",
+    "description": "64-channel enterprise NVR.",
+    "features": [
+      "64 Channels",
+      "8 SATA",
+      "RAID Support",
+      "4K Output"
+    ],
+    "specifications": {
+      "Channels": "64",
+      "Storage": "8 SATA"
+    },
+    "brochure": "pdf/Product-Catalogue.pdf"
+  },
+  {
+    "id": 41,
+    "name": "IP Video Door Station",
+    "brand": "Hikvision",
+    "category": "Video Intercom",
+    "model": "DS-KV8113-WME1",
+    "image": "images/products/DS-KV8113-WME1.jpg",
+    "description": "Single-button IP video door station.",
+    "features": [
+      "2 MP Camera",
+      "Wi-Fi",
+      "PoE",
+      "Mobile App"
+    ],
+    "specifications": {
+      "Camera": "2 MP",
+      "Network": "PoE/Wi-Fi"
+    },
+    "brochure": "pdf/Product-Catalogue.pdf"
+  },
+  {
+    "id": 42,
+    "name": "Indoor Video Intercom Monitor",
+    "brand": "Hikvision",
+    "category": "Video Intercom",
+    "model": "DS-KH6320-WTE1",
+    "image": "images/products/DS-KH6320-WTE1.jpg",
+    "description": "7-inch indoor touch monitor.",
+    "features": [
+      "7-inch Touch Screen",
+      "Wi-Fi",
+      "Remote Unlock",
+      "Mobile App"
+    ],
+    "specifications": {
+      "Display": "7 inch TFT"
+    },
+    "brochure": "pdf/Product-Catalogue.pdf"
+  },
+  {
+    "id": 43,
+    "name": "Fingerprint Access Controller",
+    "brand": "Hikvision",
+    "category": "Access Control",
+    "model": "DS-K1T341AMF",
+    "image": "images/products/DS-K1T341AMF.jpg",
+    "description": "Fingerprint and RFID access terminal.",
+    "features": [
+      "Fingerprint",
+      "RFID Card",
+      "TCP/IP",
+      "Face Detection"
+    ],
+    "specifications": {
+      "Authentication": "Fingerprint/Card"
+    },
+    "brochure": "pdf/Product-Catalogue.pdf"
+  },
+  {
+    "id": 44,
+    "name": "Face Recognition Terminal",
+    "brand": "Hikvision",
+    "category": "Access Control",
+    "model": "DS-K1T671M",
+    "image": "images/products/DS-K1T671M.jpg",
+    "description": "Face recognition attendance terminal.",
+    "features": [
+      "Face Recognition",
+      "Fingerprint",
+      "RFID",
+      "Touch Screen"
+    ],
+    "specifications": {
+      "Display": "7 inch",
+      "Authentication": "Face/Fingerprint/Card"
+    },
+    "brochure": "pdf/Product-Catalogue.pdf"
+  },
+  {
+    "id": 45,
+    "name": "4 Port PoE Switch",
+    "brand": "Hikvision",
+    "category": "Networking",
+    "model": "DS-3E0105P-E",
+    "image": "images/products/DS-3E0105P-E.jpg",
+    "description": "4-port Fast Ethernet PoE switch.",
+    "features": [
+      "4 PoE Ports",
+      "250m Extend Mode",
+      "Plug & Play",
+      "Surge Protection"
+    ],
+    "specifications": {
+      "Ports": "4 PoE + 1 Uplink",
+      "PoE Budget": "58W"
+    },
+    "brochure": "pdf/Product-Catalogue.pdf"
+  }
+]
