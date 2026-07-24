@@ -30,7 +30,7 @@ async function loadProductDetails() {
             <div class="product-detail-wrapper">
 
                 <div class="product-image">
-                    <img src="${product.image}" alt="${product.name}">
+                    <img src="${product.image || 'images/products/camera1.svg'}" alt="${product.name}" onerror="this.onerror=null;this.src='images/products/camera1.svg';">
                 </div>
 
                 <div class="product-info">
